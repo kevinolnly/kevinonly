@@ -1,5 +1,5 @@
 ## Olá, eu sou o Kevin Oliveira; 
-- 💻 Trabalho atual: |Assistente técnico em Infomática|
+- 💻 Trabalho atual: |Assistente técnico em Informática|
 - 📚 Estudando atualmente: |Python e Banco de dados|
 
 ## Sobre mim:
