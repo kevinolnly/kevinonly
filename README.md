@@ -1,9 +1,9 @@
 ## Olá, eu sou o Kevin Oliveira; 
-- 💻 Hoje trabalho com Assistência técnica
-- 🐍 No momento estudo Python e Banco de dados
+- 💻 Trabalho atual: |Assistente técnico em Infomática|
+- 📚 Estudando atualmente: |Python e Banco de dados|
 
 ## Sobre mim:
-  Adoro tecnologia e desafios, tenho facilidade em me adaptar e procuro constantemente novos conhecimentos;
+  Adoro tecnologia e desafios, tenho facilidade em me adaptar e procuro constantemente novos conhecimentos e técnicas;
   
   
 ## Minhas redes sociais:
