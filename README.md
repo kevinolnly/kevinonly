@@ -1,6 +1,6 @@
 ## Olá, eu sou o Kevin Oliveira; 
 - 💻 Trabalho atual: Assistente técnico em Informática
-- 📚 Estudando atualmente: Python e Banco de dados
+- 📚 Estudando atualmente: Javascript e Node.Js
 
 ## Sobre mim:
   Adoro tecnologia e desafios, tenho facilidade em me adaptar e procuro constantemente novos conhecimentos e técnicas;
